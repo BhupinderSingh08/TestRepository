@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10280" started-at="2016-11-04T13:22:41Z" finished-at="2016-11-04T13:22:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10280" started-at="2016-11-04T13:22:41Z" finished-at="2016-11-04T13:22:52Z">
+      <class name="firsttestngpackage.NewTest2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:firsttestngpackage.NewTest2@f381794]" name="launchBrowser" is-config="true" duration-ms="5102" started-at="2016-11-04T18:52:41Z" finished-at="2016-11-04T18:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:firsttestngpackage.NewTest2@f381794]" name="verifyHomePageTitle" is-config="true" duration-ms="5133" started-at="2016-11-04T18:52:47Z" finished-at="2016-11-04T18:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:firsttestngpackage.NewTest2@f381794]" name="register" duration-ms="16" started-at="2016-11-04T18:52:52Z" finished-at="2016-11-04T18:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:firsttestngpackage.NewTest2@f381794]" name="goBackToHomePage" is-config="true" duration-ms="0" started-at="2016-11-04T18:52:52Z" finished-at="2016-11-04T18:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:firsttestngpackage.NewTest2@f381794]" name="terminateBrowser" is-config="true" duration-ms="0" started-at="2016-11-04T18:52:52Z" finished-at="2016-11-04T18:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- firsttestngpackage.NewTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
